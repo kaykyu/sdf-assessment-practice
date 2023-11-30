@@ -1,0 +1,5 @@
+.vscode
+classes
+*.log
+*.tmp
+tmp.*
